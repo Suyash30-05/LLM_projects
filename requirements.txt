@@ -74,7 +74,6 @@ pyparsing==3.2.0
 pypiwin32==223
 pyttsx3==2.98
 pytz==2024.2
-pywin32==307
 PyYAML==6.0.2
 referencing==0.35.1
 regex==2024.9.11
