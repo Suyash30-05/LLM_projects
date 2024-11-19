@@ -437,11 +437,11 @@ def init_session_state():
         st.session_state.view_container = st.empty()
 
 def main():
-    view_container = st.empty()
+    
     st.set_page_config(layout="wide", page_title="AI Group Discussion")
     # init_session_state()
     
-
+    view_container = st.empty()
     available_models = {
         "llama-3.1-70b-versatile": {
             "expertise": ["technology", "data analysis"],
