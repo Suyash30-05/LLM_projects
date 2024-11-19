@@ -332,7 +332,7 @@ def get_custom_css():
     
     .view-history-btn {
         position: fixed;
-        bottom: 20px;
+        bottom: 100px;
         right: 20px;
         background: #2d4059;
         color: white;
